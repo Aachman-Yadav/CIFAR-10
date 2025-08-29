@@ -8,12 +8,14 @@ It also includes a small frontend (`app.py`) to load the trained model (`cifar10
 
 ---
 ## Project Structure
+```
 CIFAR-10/
 ├── app.py # Streamlit app for inference
 ├── cifar10_cnn_model.keras # Trained model file
 ├── requirements.txt # Python dependencies
 ├── venv/ # Virtual environment (ignored)
 └── README.md # Project documentation
+```
 
 ---
 ## Getting Started
