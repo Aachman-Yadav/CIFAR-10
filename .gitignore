@@ -1,0 +1,56 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ---- Virtual Environment ----
+venv/
+env/
+.venv/
+ENV/
+*.virtualenv
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_save
+
+# ---- Logs ----
+*.log
+logs/
+
+# ---- ML / Data ----
+# Large datasets
+data/
+*.csv
+*.tsv
+*.json
+*.parquet
+*.db
+*.sqlite3
+
+# Saved ML models
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.pb
+
+# ---- IDE / OS files ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Other ----
+*.cache
