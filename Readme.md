@@ -4,16 +4,16 @@ This project implements a **Convolutional Neural Netwrok (CNN)** to classify ima
 It also includes a small frontend (`app.py`) to load the trained model (`cifar10_cnn_model.keras`) and make predictions.
 
 **Visit the deployed site-**
-[Deployed Project][https://aachman-yadav-cifar-10-app-cefs8n.streamlit.app/]
+[Deployed Project](https://aachman-yadav-cifar-10-app-cefs8n.streamlit.app/)
 
 ---
 ## Project Structure
 CIFAR-10/
-│── app.py # Streamlit/Flask app for inference
-│── cifar10_cnn_model.keras # Trained model file
-│── requirements.txt # Python dependencies
-│── venv/ # Virtual environment (ignored)
-│── README.md # Project documentation
+├── app.py # Streamlit app for inference
+├── cifar10_cnn_model.keras # Trained model file
+├── requirements.txt # Python dependencies
+├── venv/ # Virtual environment (ignored)
+└── README.md # Project documentation
 
 ---
 ## Getting Started
