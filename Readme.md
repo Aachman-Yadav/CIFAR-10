@@ -18,6 +18,7 @@ CIFAR-10/
 ```
 
 ---
+
 ## Getting Started
 
 **To run on your system-**
